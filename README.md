@@ -3,3 +3,4 @@ This repository contains the implementation for the course [o'Reilly - Learning 
 
 ## useful links
 - [Go documentation](https://pkg.go.dev/cmd/go)
+- [Go Playground](https://go.dev/play/)
